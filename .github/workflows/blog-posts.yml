@@ -13,8 +13,9 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
+      # Upgraded to v6 to fully clear the Node.js deprecation warning
       - name: Checkout Repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v6
 
       - name: Fetch and Update Blog Posts
         uses: gautamkrishnar/blog-post-workflow@master
