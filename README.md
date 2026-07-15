@@ -41,3 +41,10 @@ Linux Docker AWS Git Wireshark Metasploit Azure GCP
 
 ![afrodojo's GitHub stats](https://github-readme-stats.vercel.app/api?username=afrodojo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrodojo&layout=compact&theme=radical)
+
+---
+
+## ✍️ Latest from My Websites
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
