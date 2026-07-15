@@ -14,12 +14,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
 
       - name: Fetch and Update Blog Posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # Focus entirely on the verified working PhD feed for now
           feed_list: "https://phdsensei.eds-360.com/functions/feed"
           feed_names: "PhD Sensei"
           max_post_count: 5
