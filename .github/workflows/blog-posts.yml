@@ -13,16 +13,15 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      # Updated to v4.2.2+ to fully support modern GitHub Node 24 runners natively
       - name: Checkout Repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v4
 
       - name: Fetch and Update Blog Posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # Swapped Cyber Dojo to its convenience redirect path matching the app structure
-          feed_list: "https://cyberdojosensei.eds-360.com/feed,https://phdsensei.eds-360.com/functions/feed"
-          feed_names: "Cyber Dojo,PhD Sensei"
+          # Focus entirely on the verified working PhD feed for now
+          feed_list: "https://phdsensei.eds-360.com/functions/feed"
+          feed_names: "PhD Sensei"
           max_post_count: 5
-          template: "$randomEmoji(🔥,🚀,💡) [$feedName] [$title]($url) ($date)"
+          template: "$randomEmoji(🎓,🚀,💡) [$feedName] [$title]($url) ($date)"
           date_format: "mmm dd, yyyy"
