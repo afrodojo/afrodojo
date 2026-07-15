@@ -1,0 +1,27 @@
+name: Latest Blog Posts Workflow
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
+
+permissions:
+  contents: write 
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and Update Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # Using the precise Base44 generated feed endpoints:
+          feed_list: "https://cyberdojosensei.eds-360.com/functions/feed,https://phdsensei.eds-360.com/functions/feed"
+          feed_names: "Cyber Dojo,PhD Sensei"
+          max_post_count: 5
+          template: "$randomEmoji(🔥,🚀,💡) [$feedName] [$title]($url) ($date)"
+          date_format: "mmm dd, yyyy"
