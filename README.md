@@ -1,7 +1,7 @@
 # 👋 Greetings, I'm Shayd Abdul-Rahman Ibrahim
 
 ### **Executive Technical Leader & Cyber Security Architect**
-*Specializing in Polyglot Microservices, Real-Time Telemetry Systems, and Enterprise Security Compliance (CMMC 2.0 / DISA STIG / SOC 2).*
+*Specializing in Polyglot Microservices, Real-Time Telemetry Systems, Enterprise Security Compliance (CMMC 2.0 / DISA STIG / SOC 2), and Secure AI Architecture.*
 
 ---
 
@@ -15,17 +15,17 @@
 
 ---
 
-### 🎓 PhD Research Focus
+### 🎓 Applied Science Research Focus (DAS in Computer Science)
 
-* **Domain:** Secure RAG Systems & Hallucination Suppression
+* **Domain:** Secure RAG Systems & Hallucination Suppression in Computer Science
 * **Core Investigation:** Architectural frameworks for deterministic context verification, post-retrieval claim evaluation (Self-RAG / CRAG), and cryptographic provenance tracing to eliminate LLM hallucinations in high-stakes compliance and intelligence platforms.
 
 ---
 
 ### ⚡ Featured Systems
 
-#### 🛡 [Sensei PhD & EDS-360 Command Center](https://github.com/afrodojo/sensei-phd)
-> *Executive telemetry, security compliance, and AI research platform.*
+#### 🛡 [Sensei & EDS-360 Command Center](https://github.com/afrodojo/sensei-phd)
+> *Executive telemetry, security compliance, and applied AI research platform.*
 * Real-time biomechanics & strength telemetry streaming powered by C++ gRPC and Next.js.
 * Automated incident response playbooks, forensic triage scripts (`NIST SP 800-61`), and continuous SCAP XML compliance auditing.
 * Secure RAG evaluation engine for contextual validation and hallucination auditing.
@@ -40,7 +40,6 @@ Languages           : C++17, TypeScript/JavaScript, Python, Bash, SQL, Proto3
 Frameworks          : Next.js 14+, gRPC, React, Tailwind CSS, LangChain/LlamaIndex, MkDocs
 Security/Compliance : DISA STIG, CMMC 2.0 Level 2/3, SOC 2 Type II, OpenSCAP, Auditd, FIPS 140-3
 DevOps & Cloud      : RHEL 9, Podman, Ansible, GCP Cloud Run, Cloud Build, Git, GitHub Actions
-
 
 ### 📫 Connect & Operations
 
