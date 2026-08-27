@@ -1,49 +1,33 @@
-# Hi there, I'm afrodojo! 👋
+# 👋 Greetings, I'm Shayd Abdul-Rahman Ibrahim
 
-Welcome to my GitHub profile. I operate at the intersection of advanced technology, cybersecurity, and academic research. 
-
----
-
-## 🌐 Connect With Me & My Work
-
-I manage two primary hubs for my projects, insights, and research. Check them out below:
-
-*   🥷 **[Cyber Dojo Sensei](https://cyberdojosensei.eds-360.com/cyber-dojo)** – My hub for cybersecurity, coding projects, hands-on tutorials, and tech training.
-*   🎓 **[PhD Sensei](https://phdsensei.eds-360.com/scholar)** – My academic space covering research papers, deep technical concepts, and academic writing.
+### **Executive Technical Leader & Cyber Security Architect**
+*Specializing in Polyglot Microservices, Real-Time Telemetry Systems, and Enterprise Security Compliance (CMMC 2.0 / DISA STIG / SOC 2).*
 
 ---
 
-## 🚀 About Me
+### 🏛 Core Architecture & Technical Capabilities
 
-- 🔭 **Current Focus:** >
-- 🚀 **Right now, I am bridging the gap between theory and execution:** I'm currently researching advanced threat models for my PhD while actively building secure, scalable tools and training environments for the Cyber Dojo platform.
-- 🔒 **Cybersecurity Interests: Pen testing, AppSec, Threat Intelligence, DevSecOps, Agentic AI
-- 📚 **Research Focus:** Quantum Computing, AI/ML, DevSecOps, DevOps, Self-Healing SIEM architecture
-- 💬 Ask me about: Technical training, secure coding practices, or balancing academia with real-world tech.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages & Frameworks
-Python JavaScript Go Rust Bash
-
-### 🛡️ Cyber & Infrastructure
-Linux Docker AWS Git Wireshark Metasploit Azure GCP
+* **High-Performance Streaming:** C++ gRPC native engines, Protocol Buffers over HTTP/2, Server-Sent Events (SSE), Node.js / Next.js.
+* **Security & Compliance Engineering:** Hardened RHEL 9 environments, DISA STIG baselining, FIPS 140-3 cryptography, OpenSCAP/OSCAL continuous monitoring, and automated Body of Evidence (BoE) vaults.
+* **Container & Process Management:** Podman (Rootless / Quadlets), Systemd, Docker multi-stage builds, and process supervision (`supervisord`).
+* **Cloud Infrastructure:** Google Cloud Platform (Cloud Run, Cloud Build, Artifact Registry), Hybrid-Cloud deployment automation via Ansible.
 
 ---
 
-## 📊 GitHub Stats
+### ⚡ Featured Systems
+
+#### 🛡 [Sensei PhD & EDS-360 Command Center](https://github.com/afrodojo/sensei-phd)
+> *Executive telemetry and compliance platform.*
+* Real-time biomechanics & strength telemetry streaming powered by C++ gRPC and Next.js.
+* Automated incident response playbooks, forensic triage scripts (`NIST SP 800-61`), and continuous SCAP XML compliance auditing.
+* Natural audio synthesis interface with Arabic phonetic stress engine.
 
 ---
 
+### 📊 Tech Stack & Tooling
 
-
-![afrodojo's GitHub stats](https://github-readme-stats.vercel.app/api?username=afrodojo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrodojo&layout=compact&theme=radical)
-
----
-
-## ✍️ Latest from My Websites
-
-<!-- BLOG-POST-LIST:START -->🚀 [PhD Sensei] [Reading Kyber: A Literature Review of Lattice-Based KEMs &lpar;2016–2026&rpar;](https://phdsensei.eds-360.com/scholar/blog/6a578b9e6af5280bdd0b17d4) (Jul 02, 2026)🎓 [PhD Sensei] [On the Geometry of Trust: Visualizing Continuous Verification](https://phdsensei.eds-360.com/scholar/blog/6a578b9e6af5280bdd0b17d3) (Jun 28, 2026)🎓 [PhD Sensei] [Deriving the Lattice Bound: Why Kyber Key Encapsulation Resists Quantum Search](https://cyberdojosensei.eds-360.com/notes/kyber-lattice-bound.pdf) (May 20, 2026)💡 [PhD Sensei] [Adversarial Robustness of AI-Based Intrusion Detectors Under Distribution Shift](https://arxiv.org/pdf/2602.00002) (Feb 03, 2026)🚀 [PhD Sensei] [A Formal Treatment of Continuous Verification in Zero-Trust Mesh Networks](https://arxiv.org/pdf/2509.00001) (Sep 12, 2025)<!-- BLOG-POST-LIST:END -->
+```text
+Languages           : C++17, TypeScript/JavaScript, Python, Bash, SQL, Proto3
+Frameworks          : Next.js 14+, gRPC, React, Tailwind CSS, MkDocs Material
+Security/Compliance : DISA STIG, CMMC 2.0 Level 2/3, SOC 2 Type II, OpenSCAP, Auditd, FIPS
+DevOps & Cloud      : RHEL 9, Podman, Ansible, GCP Cloud Run, Cloud Build, Git, GitHub Actions
