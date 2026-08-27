@@ -9,17 +9,26 @@
 
 * **High-Performance Streaming:** C++ gRPC native engines, Protocol Buffers over HTTP/2, Server-Sent Events (SSE), Node.js / Next.js.
 * **Security & Compliance Engineering:** Hardened RHEL 9 environments, DISA STIG baselining, FIPS 140-3 cryptography, OpenSCAP/OSCAL continuous monitoring, and automated Body of Evidence (BoE) vaults.
+* **Secure AI & RAG Architecture:** Zero-trust Retrieval-Augmented Generation (RAG) pipelines, deterministic context grounding, metadata RBAC vector filtering, and automated hallucination mitigations.
 * **Container & Process Management:** Podman (Rootless / Quadlets), Systemd, Docker multi-stage builds, and process supervision (`supervisord`).
 * **Cloud Infrastructure:** Google Cloud Platform (Cloud Run, Cloud Build, Artifact Registry), Hybrid-Cloud deployment automation via Ansible.
+
+---
+
+### 🎓 PhD Research Focus
+
+* **Domain:** Secure RAG Systems & Hallucination Suppression
+* **Core Investigation:** Architectural frameworks for deterministic context verification, post-retrieval claim evaluation (Self-RAG / CRAG), and cryptographic provenance tracing to eliminate LLM hallucinations in high-stakes compliance and intelligence platforms.
 
 ---
 
 ### ⚡ Featured Systems
 
 #### 🛡 [Sensei PhD & EDS-360 Command Center](https://github.com/afrodojo/sensei-phd)
-> *Executive telemetry and compliance platform.*
+> *Executive telemetry, security compliance, and AI research platform.*
 * Real-time biomechanics & strength telemetry streaming powered by C++ gRPC and Next.js.
 * Automated incident response playbooks, forensic triage scripts (`NIST SP 800-61`), and continuous SCAP XML compliance auditing.
+* Secure RAG evaluation engine for contextual validation and hallucination auditing.
 * Natural audio synthesis interface with Arabic phonetic stress engine.
 
 ---
@@ -28,8 +37,8 @@
 
 ```text
 Languages           : C++17, TypeScript/JavaScript, Python, Bash, SQL, Proto3
-Frameworks          : Next.js 14+, gRPC, React, Tailwind CSS, MkDocs Material
-Security/Compliance : DISA STIG, CMMC 2.0 Level 2/3, SOC 2 Type II, OpenSCAP, Auditd, FIPS
+Frameworks          : Next.js 14+, gRPC, React, Tailwind CSS, LangChain/LlamaIndex, MkDocs
+Security/Compliance : DISA STIG, CMMC 2.0 Level 2/3, SOC 2 Type II, OpenSCAP, Auditd, FIPS 140-3
 DevOps & Cloud      : RHEL 9, Podman, Ansible, GCP Cloud Run, Cloud Build, Git, GitHub Actions
 
 
