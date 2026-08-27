@@ -31,3 +31,10 @@ Languages           : C++17, TypeScript/JavaScript, Python, Bash, SQL, Proto3
 Frameworks          : Next.js 14+, gRPC, React, Tailwind CSS, MkDocs Material
 Security/Compliance : DISA STIG, CMMC 2.0 Level 2/3, SOC 2 Type II, OpenSCAP, Auditd, FIPS
 DevOps & Cloud      : RHEL 9, Podman, Ansible, GCP Cloud Run, Cloud Build, Git, GitHub Actions
+
+
+### 📫 Connect & Operations
+
+* **GitHub:** [@afrodojo](https://github.com/afrodojo)
+* **Forward-Facing Platform:** [dassensei.eds-360.com](https://dassensei.eds-360.com)
+* **Access Policy:** Restricted / Authorized Users Only (Pre-approved Identity Domain Verification Required)
